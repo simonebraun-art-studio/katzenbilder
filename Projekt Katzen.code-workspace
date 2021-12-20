@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../BTA-Kochen"
+		},
+		{
+			"path": "../HTML-CSS-Uebungen"
+		},
+		{
+			"path": "../simonebraun5.github.io"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "katzenbilder"
+	}
+}
